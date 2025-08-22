@@ -33,3 +33,7 @@ This script can be easily adapted to scrape data from any website that does not 
     `python books_scraper.py`
 
 After the script finishes, you will find a `books.csv` file in the directory containing all the scraped book data.
+
+## Example
+<img width="1338" height="716" alt="Screenshot 2025-08-22 at 12 38 23 PM" src="https://github.com/user-attachments/assets/76350c1b-c32e-495b-a092-1624dc0e1355" />
+
