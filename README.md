@@ -8,11 +8,11 @@ This script can be easily adapted to scrape data from any website that does not 
 ## Features
 
 * **Full Site Scraping:** Navigates through all 50 pages of the book catalogue automatically.
-* **Multiple Data Points:** Extracts four key pieces of information for each book:
+* **Multiple Data Points:** Extracts all pieces of information for each book:
     * Title
     * Price
     * Stock Availability
-    * Star Rating
+    * Rating
 * **CSV Export:** Saves the structured data to a `books.csv` file for easy use in Excel, Google Sheets, or data analysis software.
 
 
